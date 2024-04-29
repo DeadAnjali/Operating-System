@@ -10,6 +10,9 @@ processes are of two types
 - independent processes
 - Context Switching
 - ![image](https://github.com/DeadAnjali/Operating-System/assets/122856861/d85dee5e-8f21-4f00-8385-4d9058002749)
-- 
-
+### Semaphore
+- it is a integer value and can be either `Counting (-infinty to + infinity)` or `Binary(0 or 1)`
+- It is entry code called donwn/p()/wait
+- It is exit code called up/v()/signal
+- ![image](https://github.com/DeadAnjali/Operating-System/assets/122856861/a6e38a7d-2ab7-499a-ac19-d125ed3fe10d)
 
